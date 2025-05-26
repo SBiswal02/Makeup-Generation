@@ -1,0 +1,9 @@
+mediapipe
+opencv-python
+numpy
+matplotlib
+dlib
+face-recognition
+scikit-image
+scikit-learn
+scipy
