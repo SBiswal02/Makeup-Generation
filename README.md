@@ -1,17 +1,6 @@
 # Digital Makeup Generation
 
-This repository houses the project on "Digital Makeup Generation" ([reference paper](Digital_Makeup_Stanford.pdf)) as part of the course project for M23CS7.404 Digital Image Processing at IIIT Hyderabad.
-
-## Team Members
-
-* Jewel Benny
-* Aakash Gorla
-* Vaibhav Agarwal
-* Sarthak  Aggarwal
-
-## Project Description
-
-The project aims to transfer the makeup from a reference image to a target image. The makeup is applied on the face of the target image while preserving the identity of the target image.
+This repository houses the project on "Makeup Generation" ([reference paper](Digital_Makeup_Stanford.pdf)) which aims to transfer the makeup from a reference image to a target image. The makeup is applied on the face of the target image while preserving the identity of the target image.
 
 ## Requirements
 
