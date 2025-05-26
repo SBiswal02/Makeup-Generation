@@ -18,3 +18,6 @@ The code requires a Jupyter Notebook environment to run with the following libra
 These can be installed using `pip install <package-name>` on the command line.
 
 > Note - MediaPipe, Dlib, and face_recognition require additional visual studio dependencies to be installed. Please refer to the respective documentation available online for detailed instructions.
+
+## Dataset
+Dataset collected is front facing images of people with makeup on from google images that have been manually selected and processed.
